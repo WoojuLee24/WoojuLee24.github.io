@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab62c4d-7372-4e70-9a20-bc3a9d9bd1cf" name="Changes" comment="" />
+    <list default="true" id="7ab62c4d-7372-4e70-9a20-bc3a9d9bd1cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/papers/images/oadg_introduction.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/all_ws/erasor_ws/src/ERASOR.Official" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -40,6 +44,8 @@
       <option name="presentableId" value="Default" />
       <updated>1641113679572</updated>
       <workItem from="1641113680786" duration="2140000" />
+      <workItem from="1641262812855" duration="1902000" />
+      <workItem from="1703135370787" duration="1702000" />
     </task>
     <servers />
   </component>
